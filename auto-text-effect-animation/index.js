@@ -1,6 +1,6 @@
 const containerEl = document.querySelector(".container");
 
-const careers = ["YouTuber", "Web Developer", "Freelancer", "Instructor"];
+const careers = ["Navaneethan", "Web Developer", "Freelancer", "Instructor"];
 
 let careerIndex = 0;
 
